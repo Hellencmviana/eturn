@@ -1,0 +1,7 @@
+C:\Users\helle\source\repos\eturn\resposta3\bin\Debug\resposta3.exe.config
+C:\Users\helle\source\repos\eturn\resposta3\bin\Debug\resposta3.exe
+C:\Users\helle\source\repos\eturn\resposta3\bin\Debug\resposta3.pdb
+C:\Users\helle\source\repos\eturn\resposta3\obj\Debug\resposta3.csprojAssemblyReference.cache
+C:\Users\helle\source\repos\eturn\resposta3\obj\Debug\resposta3.csproj.CoreCompileInputs.cache
+C:\Users\helle\source\repos\eturn\resposta3\obj\Debug\resposta3.exe
+C:\Users\helle\source\repos\eturn\resposta3\obj\Debug\resposta3.pdb

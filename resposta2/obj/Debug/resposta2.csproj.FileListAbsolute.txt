@@ -1,0 +1,6 @@
+C:\Users\helle\source\repos\eturn\resposta2\bin\Debug\resposta2.exe.config
+C:\Users\helle\source\repos\eturn\resposta2\bin\Debug\resposta2.exe
+C:\Users\helle\source\repos\eturn\resposta2\bin\Debug\resposta2.pdb
+C:\Users\helle\source\repos\eturn\resposta2\obj\Debug\resposta2.csproj.CoreCompileInputs.cache
+C:\Users\helle\source\repos\eturn\resposta2\obj\Debug\resposta2.exe
+C:\Users\helle\source\repos\eturn\resposta2\obj\Debug\resposta2.pdb
