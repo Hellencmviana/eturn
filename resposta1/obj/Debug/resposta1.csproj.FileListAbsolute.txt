@@ -1,0 +1,7 @@
+C:\Users\helle\source\repos\eturn\resposta1\obj\Debug\resposta1.csproj.CoreCompileInputs.cache
+C:\Users\helle\source\repos\eturn\resposta1\bin\Debug\resposta1.exe.config
+C:\Users\helle\source\repos\eturn\resposta1\bin\Debug\resposta1.exe
+C:\Users\helle\source\repos\eturn\resposta1\bin\Debug\resposta1.pdb
+C:\Users\helle\source\repos\eturn\resposta1\obj\Debug\resposta1.exe
+C:\Users\helle\source\repos\eturn\resposta1\obj\Debug\resposta1.pdb
+C:\Users\helle\source\repos\eturn\resposta1\obj\Debug\resposta1.csprojAssemblyReference.cache
